@@ -1,5 +1,5 @@
-# YOLOv8-Object-Recognition-as-Inter-Class-Similarities
-YOLOv8 for Product Brand Recognition as Inter-Class Similarities
+# YOLOv8 for Product Brand Recognition as Inter-Class Similarities
+
 <div align="center">
 
 Fine-grained grocery products refer to items that are similar in appearance and require a high level of detail to distinguish from one another. In the context of smart retail, fine-grained grocery products can pose a challenge for computer vision systems that are designed to recognize and classify objects. This is because the differences between similar products may be subtle and difficult to detect, even for humans. 
@@ -18,3 +18,6 @@ Once the model is trained, it can be used to recognize and classify grocery prod
 
 Overall, YOLOv8 has shown promising results for grocery product recognition, achieving a mean average precision (mAP) of 0.96303 in one experiment. This suggests that the model has the potential to improve the efficiency and accuracy of the checkout process in smart retail.
 
+![Performance](img/yolov8_performance.png)
+![Performance](img/yolov8_performance1.png)
+ </div>
