@@ -8,7 +8,7 @@ For example, consider a dataset of different types of apples. While it may be ea
 
 To address this challenge, researchers have developed specialized computer vision models that are designed to recognize fine-grained categories of objects. These models typically use advanced techniques such as deep learning and convolutional neural networks to analyze images and identify subtle differences between similar objects. In the context of smart retail, these models can be used to improve the accuracy of product recognition and enable more efficient and automated checkout processes.
 
-![Product hierarchy](docs/hierarchy.png)
+![Product hierarchy](img/hierarchy.png)
   
 [YOLOv8](https://github.com/ultralytics/ultralytics) is a computer vision model that has been used to recognize and classify grocery products. In the context of smart retail, YOLOv8 can be used to automate the checkout process by identifying and tracking products as they are scanned. 
 
